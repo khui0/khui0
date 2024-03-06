@@ -1,5 +1,9 @@
 # Kenny Hui
 
-![Stats](https://github-readme-stats.vercel.app/api?username=khui0&hide=contribs&show_icons=true&rank_icon=github&theme=nord&border_radius=8)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khui0&layout=donut&theme=nord&border_radius=8)
+<a href="https://github.com/khui0">
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=khui0&theme=dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
+</a>
+<br>
+<a href="https://github.com/khui0">
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=khui0&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</a>
